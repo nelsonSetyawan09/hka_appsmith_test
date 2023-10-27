@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "get_filter_list_topup_hka",
+    "pageId": "Top Up HKA",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Top Up HKA_get_filter_list_topup_hka",
+  "deleted": false,
+  "gitSyncId": "64d0b5a144cd802fca80f5f7_653b6dbd6c05f502385e4d4e"
+}

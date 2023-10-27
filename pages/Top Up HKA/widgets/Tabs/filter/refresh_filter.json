@@ -1,0 +1,38 @@
+{
+    "boxShadow": "none",
+    "widgetName": "refresh_filter",
+    "onClick": "{{get_user_allocations.run()}}",
+    "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "displayName": "Icon Button",
+    "iconSVG": "/static/media/icon.1a0c634ac75f9fa6b6ae7a8df882a3ba.svg",
+    "searchTags": [
+        "click",
+        "submit"
+    ],
+    "topRow": 2,
+    "bottomRow": 6,
+    "parentRowSpace": 10,
+    "type": "ICON_BUTTON_WIDGET",
+    "hideCard": false,
+    "animateLoading": true,
+    "parentColumnSpace": 6.207072138786316,
+    "dynamicTriggerPathList": [{"key": "onClick"}],
+    "leftColumn": 51,
+    "dynamicBindingPathList": [
+        {"key": "borderRadius"},
+        {"key": "buttonColor"}
+    ],
+    "isDisabled": false,
+    "key": "7xhqfux38l",
+    "isDeprecated": false,
+    "rightColumn": 54,
+    "iconName": "refresh",
+    "widgetId": "olemhgv7eo",
+    "isVisible": true,
+    "version": 1,
+    "parentId": "8loeh8qm54",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "buttonVariant": "PRIMARY"
+}

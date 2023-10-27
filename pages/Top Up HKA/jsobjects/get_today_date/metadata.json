@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "get_today_date",
+    "pageId": "Top Up HKA",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Top Up HKA_get_today_date",
+  "deleted": false,
+  "gitSyncId": "64d0b5a144cd802fca80f5f7_653b61f56c05f502385e4d0f"
+}
